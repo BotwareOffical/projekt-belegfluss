@@ -3,9 +3,8 @@ import HeroSection from "@/components/HeroSection";
 import ProblemSolutionSection from "@/components/ProblemSolutionSection";
 import WorkflowSection from "@/components/WorkflowSection";
 import PricingSection from "@/components/PricingSection";
-import OnboardingSection from "@/components/OnboardingSection";
-import VideoSection from "@/components/VideoSection";
 import CTASection from "@/components/CTASection";
+import VideoSection from "@/components/VideoSection";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -17,9 +16,8 @@ const Index = () => {
         <ProblemSolutionSection />
         <WorkflowSection />
         <PricingSection />
-        <OnboardingSection />
-        <VideoSection />
         <CTASection />
+        <VideoSection />
       </main>
       <Footer />
     </div>

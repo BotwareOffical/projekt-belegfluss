@@ -18,11 +18,11 @@ const Footer = () => {
             </p>
           </div>
           <div className="flex items-center justify-center gap-4 pt-4">
-            <a href="/impressum" className="body-sm hover:text-foreground transition-colors">
+            <a href="/impressum" className="body-sm hover:text-foreground transition-colors underline-offset-2 hover:underline">
               Impressum
             </a>
             <span className="text-border">|</span>
-            <a href="/datenschutz" className="body-sm hover:text-foreground transition-colors">
+            <a href="/datenschutz" className="body-sm hover:text-foreground transition-colors underline-offset-2 hover:underline">
               Datenschutz
             </a>
           </div>

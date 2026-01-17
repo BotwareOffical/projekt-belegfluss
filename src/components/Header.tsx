@@ -30,7 +30,7 @@ const Header = () => {
             Nurturious
           </span>
           <Button onClick={scrollToCalendly} size="default">
-            Kurz klären
+            Jetzt starten
           </Button>
         </div>
       </div>
